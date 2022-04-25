@@ -1,0 +1,13 @@
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\bin\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.exe
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\bin\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.deps.json
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\bin\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.runtimeconfig.json
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\bin\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.runtimeconfig.dev.json
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\bin\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.dll
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\bin\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.pdb
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\obj\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.AssemblyInfoInputs.cache
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\obj\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.AssemblyInfo.cs
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\obj\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.csproj.CoreCompileInputs.cache
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\obj\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.dll
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\obj\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.pdb
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\obj\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.genruntimeconfig.cache
+C:\Projects\Gurwinder\Interview\Spreetail\Exercise\Spreetail.Assignment\Spreetail.Assignment.MultiValueDictionary\obj\Debug\netcoreapp3.1\Spreetail.Assignment.MultiValueDictionary.csprojAssemblyReference.cache
